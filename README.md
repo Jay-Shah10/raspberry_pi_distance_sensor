@@ -11,6 +11,7 @@ This project was created to just play around with Raspberry pi B+.
 * Bread Board.
 * Male to Female jumper wires.
 * Ultra Sonic Sensor - I used HC-SR05
+* Resistors
 
 ## How to
 <strong>How to set up Raspberry Pi 3 B+</strong>
